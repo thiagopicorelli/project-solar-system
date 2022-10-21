@@ -15,9 +15,9 @@ class Missions extends Component {
       />
     ));
     return (
-      <div data-testid="missions">
+      <div data-testid="missions" id="Missions">
         <Title headline="Missões" />
-        { listMission }
+        <section id="MissionsList">{ listMission }</section>
       </div>
     );
   }
