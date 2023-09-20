@@ -1,7 +1,7 @@
 # Solar System
 ![Screenshot_20230907_164315](https://github.com/thiagopicorelli/project-solar-system/assets/60528610/8a6b00a0-6a8b-4959-b3ec-0824a3f4542c)
 
-Aplicação feita no curso da Trybe para a visualização dos planetas do sistema solar, com informações sobre suas respectivas missões espaciais. Testado por arquivos de teste do Jest e ESLint.
+Aplicação feita no curso da Trybe para a visualização dos planetas do sistema solar, com informações sobre suas respectivas missões espaciais.
 
 ## Arquivos trabalhados
 [App.js](https://github.com/thiagopicorelli/project-solar-system/blob/main/src/App.js)
